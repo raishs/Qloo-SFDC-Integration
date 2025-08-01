@@ -59,7 +59,7 @@ https://youtu.be/uRcwTVHd0HM
 - Configure custom field permissions
 - Set up proper profile access
 
-## �� Business Impact
+## Business Impact
 
 - **Improved** for cultural intelligence business workflows
 - **Data-driven decisions** instead of guesswork
